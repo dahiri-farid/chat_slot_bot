@@ -7,3 +7,4 @@ services:
     envVars:
       - key: BOT_TOKEN
         sync: false
+    runtime: python-3.11
